@@ -50,6 +50,36 @@ const Sobre = (props) => {
         
       </Container>
       </Navbar>
+      <div className={styles.seccao}>
+        <Container>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+
+        </Container>
+      </div>
+
+      <div className={styles.rodape}>
+        <Container>
+          <h3>EU acho que estou conseguindo fazer essa gingonça</h3>
+        </Container>
+      </div>
+
+      {/* FIM DO CÓDIGO */}
       
     </div>
   );

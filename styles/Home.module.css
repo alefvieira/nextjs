@@ -19,3 +19,15 @@
   font-weight: 600;
   color: rgb(85, 6, 6);
 }
+.rodape{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 70px;
+  background: rgba(97, 52, 97, 0.267);
+}
+.seccao{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: rgba(156, 22, 156, 0.267);
+}
