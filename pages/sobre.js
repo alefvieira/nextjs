@@ -52,23 +52,22 @@ const Sobre = (props) => {
       </Navbar>
       <div className={styles.seccao}>
         <Container>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
-          <h1>EU acho que estou conseguindo fazer essa gingonça</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          <h1>sOBRE</h1>
+          
 
         </Container>
       </div>
